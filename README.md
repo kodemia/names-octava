@@ -6,4 +6,8 @@
 6. melscastillo
 7. Juan Cundafe
 8. codigoVis
+<<<<<<< HEAD
 
+=======
+9. YazminSilvaO
+>>>>>>> c701a62fe6ef2b9ac997f7ace07699e6d6aa5e22
