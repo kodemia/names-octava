@@ -1,6 +1,8 @@
-1. devCharles (branch)
+1. devCharles
 2. rorhedia
 3. tuxdinosaur
 4. AniaCuapio
 5. arianaomi
-6. codigoVis
+6. melscastillo
+7. Juan Cundafe
+8. codigoVis
