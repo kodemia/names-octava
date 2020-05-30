@@ -5,3 +5,5 @@
 5. arianaomi
 6. melscastillo
 7. YazminSilvaO
+7. Juan Cundafe
+
