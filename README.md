@@ -4,4 +4,6 @@
 4. AniaCuapio
 5. arianaomi
 6. melscastillo
-7. RubenSom20
+7. Juan Cundafe
+8. RubenSom20
+
